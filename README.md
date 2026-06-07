@@ -124,5 +124,5 @@ The frontend runs at `http://localhost:5173`.
 
 ## Live Demo
 
-- Frontend: To be added after GitHub Pages deployment.
-- Backend: To be added after Render deployment.
+- Frontend: https://muhammad7839.github.io/jwt-auth-system
+- Backend: https://jwt-auth-system-gism.onrender.com
