@@ -1,0 +1,16 @@
+# Dependencies installed by npm should not be committed.
+node_modules/
+
+# Environment files contain local settings and secrets.
+.env
+.env.local
+backend/.env
+frontend/.env.local
+
+# Build output is generated from source code.
+dist/
+frontend/dist/
+
+# macOS metadata files are not part of the project.
+.DS_Store
+
